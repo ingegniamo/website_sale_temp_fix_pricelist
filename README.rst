@@ -1,14 +1,6 @@
-Title
+Website sale temp fix pricelist
 ===============================
-Description
-
-Configuration
-=============
-
-Usage
-=====
-Descriprion usage
-
+Fix temporaneo in caso di multi website e si installa webiste_sale
 
 Credits
 =======
@@ -21,4 +13,4 @@ Authors
 Contributors
 ~~~~~~~~~~~~
 
-* Moccia Francesco <moccia.f@stesi.eu>
+* Michele <dicroce.m@stesi.eu>

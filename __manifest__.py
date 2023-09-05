@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "",
+    'name': "Temp fix procelist on website sale",
     
     'summary': "",
   
@@ -15,10 +15,10 @@
     'website': "http://www.stesi.consulting",
 
     # any module necessary for this one to work correctly
-    'depends': [],
+    'depends': ['website'],
     
     # always loaded
-    'data': [],
+    'data': ['views/product_pricelist.xml'],
 
     'application': False,
 }
